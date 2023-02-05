@@ -1,5 +1,8 @@
+<<<<<<< Updated upstream
 
 >>>>>>> 85c40cf60679c429a927acc3a79d5ee2f5a3b79a
+=======
+>>>>>>> Stashed changes
 joblib==1.2.0
 matplotlib==3.6.3
 numpy==1.24.1
