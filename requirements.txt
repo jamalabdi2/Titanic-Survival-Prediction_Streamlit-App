@@ -3,6 +3,6 @@ scikit-learn
 numpy
 pandas
 joblib
-GitPython==
+GitPython
 streamlit
 pip==21.3
