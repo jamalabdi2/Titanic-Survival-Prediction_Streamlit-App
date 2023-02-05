@@ -1,8 +1,9 @@
-xgboost
-scikit-learn
-numpy
-pandas
-joblib
-GitPython
-streamlit
-pip==21.3
+joblib==1.2.0
+matplotlib==3.6.3
+numpy==1.24.1
+opendatasets==0.1.22
+pandas==1.5.3
+scikit_learn==1.2.1
+seaborn==0.12.2
+xgboost==1.7.3
+
